@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#498AFB</color>
+    <color name="neutral">#B2062C4E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">reportez app</string>
+    <style name="Base.Theme.ReportezApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ReportezApp" parent="Base.Theme.ReportezApp"/>
+</resources>

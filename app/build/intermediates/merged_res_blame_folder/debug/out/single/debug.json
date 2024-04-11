@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_s_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\s_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_s.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\s.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_s_round.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\s_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_cicle_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\cicle_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_s_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\s_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_cicle.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\cicle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_cicle.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\cicle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_logo.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_logo.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_s_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\s_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_s_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\s_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_s_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\s_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_logo_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\logo_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_cicle_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\cicle_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_cicle_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\cicle_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_s.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\s.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_logo_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\logo_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_s.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\s.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_cicle_round.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\cicle_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_cicle_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\cicle_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_s_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\s_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_logo_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\logo_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_cicle_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\cicle_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_logo_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\logo_background.webp"
+    },
+    {
+        "merged": "com.example.reportezapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.reportezapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_cicle_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\cicle_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_cicle_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\cicle_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_cicle.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\cicle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_s_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\s_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_logo_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\logo_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_s_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\s_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_s_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\s_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_cicle_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\cicle_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_s_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\s_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_cicle_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\cicle_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_s.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\s.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_cicle_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\cicle_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_cicle.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\cicle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_cicle_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\cicle_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_s_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\s_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_s_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\s_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_s_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\s_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_cicle.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\cicle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\layout_login.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_cicle_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\cicle_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-anydpi-v26_s.xml.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-anydpi-v26\\s.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_cicle_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\cicle_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-mdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-mdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_logo.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxhdpi_s_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxhdpi\\s_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_cicle.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\cicle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xhdpi_s.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xhdpi\\s.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_cicle_foreground.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\cicle_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-hdpi_cicle_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-hdpi\\cicle_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_s_background.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\s_background.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-merged_res-31:\\mipmap-xxxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\Shreya Wani\\.gradle\\daemon\\8.2\\com.example.reportezapp-main-33:\\mipmap-xxxhdpi\\logo_round.webp"
+    }
+]
