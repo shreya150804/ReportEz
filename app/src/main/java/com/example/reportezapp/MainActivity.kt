@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,18 +16,15 @@ class MainActivity : AppCompatActivity() {
         Thread.sleep(3000)
 
         val signin = findViewById<Button>(R.id.signin)
-        signin.setOnClickListener( View.OnClickListener() {
-            fun onClick(view: View?) {
-                val intent = Intent(this, LoginActivity::class.java)
-                startActivity(intent)
-            }
+        signin.setOnClickListener {
+            val intent = Intent(this, LoginActivity::class.java)
+            startActivity(intent)
+        }
+
         val createacc = findViewById<Button>(R.id.createacc)
-        createacc.setOnClickListener( View.OnClickListener() {
-                fun onClick(view: View?) {
-                    val intent = Intent(this, CreateAcc::class.java)
-                    startActivity(intent)
-                }
-
-
-    })
-})}}
+        createacc.setOnClickListener {
+            val intent = Intent(this, CreateAcc::class.java)
+            startActivity(intent)
+        }
+    }
+}
