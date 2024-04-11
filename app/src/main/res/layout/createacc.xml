@@ -8,7 +8,7 @@
 
     <EditText
 
-        android:id="@+id/editText2"
+        android:id="@+id/editText21"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
@@ -20,7 +20,7 @@
         android:textColorHint="#DDDADA"
         android:textSize="25dp"
         android:textStyle="italic"
-        app:layout_constraintBottom_toTopOf="@+id/editText"
+        app:layout_constraintBottom_toTopOf="@+id/editText13"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         tools:layout_editor_absoluteX="30dp">
@@ -30,7 +30,7 @@
 
     <EditText
 
-        android:id="@+id/editText7"
+        android:id="@+id/editText71"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
@@ -42,7 +42,7 @@
         android:textColorHint="#DDDADA"
         android:textSize="25dp"
         android:textStyle="italic"
-        app:layout_constraintBottom_toTopOf="@+id/editText"
+        app:layout_constraintBottom_toTopOf="@+id/editText13"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.814"
         tools:layout_editor_absoluteX="30dp">
@@ -52,7 +52,7 @@
 
     <EditText
 
-        android:id="@+id/editText6"
+        android:id="@+id/editText61"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
@@ -64,7 +64,7 @@
         android:textColorHint="#DDDADA"
         android:textSize="25dp"
         android:textStyle="italic"
-        app:layout_constraintBottom_toTopOf="@+id/editText"
+        app:layout_constraintBottom_toTopOf="@+id/editText13"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.635"
         tools:layout_editor_absoluteX="30dp">
@@ -73,7 +73,7 @@
     </EditText>
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/editText13"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
@@ -105,14 +105,14 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText"
+        app:layout_constraintTop_toBottomOf="@+id/editText13"
         app:layout_constraintVertical_bias="0.236" />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="261dp"
         android:layout_height="238dp"
-        app:layout_constraintBottom_toTopOf="@+id/editText2"
+        app:layout_constraintBottom_toTopOf="@+id/editText21"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -126,7 +126,7 @@
         android:text="CREATE ACCOUNT"
         android:textColor="@color/white"
         android:textSize="40dp"
-        app:layout_constraintBottom_toTopOf="@+id/editText2"
+        app:layout_constraintBottom_toTopOf="@+id/editText21"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
