@@ -3159,7 +3159,6 @@ int id animateToEnd 0x7f08004c
 int id animateToStart 0x7f08004d
 int id antiClockwise 0x7f08004e
 int id anticipate 0x7f08004f
-int id appCompatButton2 0x7f080050
 int id arc 0x7f080051
 int id asConfigured 0x7f080052
 int id async 0x7f080053
@@ -3178,6 +3177,7 @@ int id bounce 0x7f08005f
 int id bounceBoth 0x7f080060
 int id bounceEnd 0x7f080061
 int id bounceStart 0x7f080062
+int id button2 0x7f080204
 int id buttonPanel 0x7f080063
 int id cache_measures 0x7f080064
 int id callMeasure 0x7f080065
@@ -3213,6 +3213,7 @@ int id coordinator 0x7f080082
 int id cos 0x7f080083
 int id counterclockwise 0x7f080084
 int id cradle 0x7f080085
+int id createacc 0x7f080205
 int id currentState 0x7f080086
 int id custom 0x7f080087
 int id customPanel 0x7f080088
@@ -3253,6 +3254,8 @@ int id east 0x7f0800aa
 int id edge 0x7f0800ab
 int id editText 0x7f0800ac
 int id editText2 0x7f0800ad
+int id editText6 0x7f080206
+int id editText7 0x7f080207
 int id edit_query 0x7f0800ae
 int id edit_text_id 0x7f0800af
 int id elastic 0x7f0800b0
@@ -3535,7 +3538,9 @@ int id textSpacerNoButtons 0x7f0801c4
 int id textSpacerNoTitle 0x7f0801c5
 int id textStart 0x7f0801c6
 int id textTop 0x7f0801c7
+int id textView1 0x7f080208
 int id textView10 0x7f0801c8
+int id textView11 0x7f080209
 int id textView12 0x7f0801c9
 int id textView13 0x7f0801ca
 int id textView14 0x7f0801cb
@@ -3711,6 +3716,7 @@ int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_form 0x7f0b001c
 int layout activity_main 0x7f0b001d
+int layout createacc 0x7f0b006e
 int layout custom_dialog 0x7f0b001e
 int layout design_bottom_navigation_item 0x7f0b001f
 int layout design_bottom_sheet_dialog 0x7f0b0020

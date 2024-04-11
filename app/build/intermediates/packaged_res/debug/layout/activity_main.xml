@@ -23,7 +23,7 @@
         tools:layout_editor_absoluteX="30dp" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/appCompatButton2"
+        android:id="@+id/createacc"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:layout_margin="30dp"

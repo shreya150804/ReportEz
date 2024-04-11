@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.ReportezApp" >
         <activity
+            android:name="com.example.reportezapp.CreateAcc"
+            android:exported="false" />
+        <activity
             android:name="com.example.reportezapp.LoginActivity"
             android:exported="false" />
         <activity

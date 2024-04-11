@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Shreya Wani\.gradle\caches\transforms-3\56af212e940d1f2bde023f0cf7bfa9c5\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Shreya Wani\.gradle\caches\transforms-3\a1c5e08825da8b3508fd7a457a086ebc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Shreya Wani\.gradle\caches\transforms-3\f880cc1c3e36c0c4b347845a9fccfd59\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Shreya Wani\.gradle\caches\tra
 	xmlns:android
 		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:5:5-31:19
-INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:5:5-33:19
+INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:5:5-33:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Shreya Wani\.gradle\caches\transforms-3\56af212e940d1f2bde023f0cf7bfa9c5\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\Shreya Wani\.gradle\caches\transforms-3\56af212e940d1f2bde023f0cf7bfa9c5\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Shreya Wani\.gradle\caches\transforms-3\a1c5e08825da8b3508fd7a457a086ebc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -96,34 +96,40 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Shreya Wani\.gradl
 		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:13:9-49
 	android:dataExtractionRules
 		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.reportezapp.LoginActivity
+activity#com.example.reportezapp.CreateAcc
 ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:16:13-42
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:16:13-38
+activity#com.example.reportezapp.LoginActivity
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:19:13-42
 activity#com.example.reportezapp.Form
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:19:9-21:40
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:20:13-33
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:22:13-33
 activity#com.example.reportezapp.MainActivity
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:22:9-30:20
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:exported
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:24:13-36
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:23:13-41
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
 INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\ReportEz-main\ReportEz-main\reportezapp-\app\src\main\AndroidManifest.xml

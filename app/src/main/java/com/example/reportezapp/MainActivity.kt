@@ -18,10 +18,12 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
             }
         val createacc = findViewById<Button>(R.id.createacc)
-        signin.setOnClickListener( View.OnClickListener() {
+        createacc.setOnClickListener( View.OnClickListener() {
                 fun onClick(view: View?) {
                     val intent = Intent(this, CreateAcc::class.java)
                     startActivity(intent)
                 }
+
+
     })
 })}}
