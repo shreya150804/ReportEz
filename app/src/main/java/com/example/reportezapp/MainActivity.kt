@@ -11,6 +11,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        installSplashScreen()
+        Thread.sleep(3000)
+
         val signin = findViewById<Button>(R.id.signin)
         signin.setOnClickListener( View.OnClickListener() {
             fun onClick(view: View?) {
