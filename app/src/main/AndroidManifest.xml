@@ -13,7 +13,13 @@
         android:theme="@style/Theme.ReportezApp"
         tools:targetApi="31">
         <activity
-            android:name=".CreateAcc"
+            android:name=".loginadmin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".newAcc"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
@@ -23,7 +29,6 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:theme="@style/splashapi"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

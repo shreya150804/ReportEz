@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.reportezapp-mergeDebugResources-29:/values-te/values-te.xml",
+            "outputFile": "com.example.reportezapp-mergeDebugResources-30:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Shreya Wani\\.gradle\\caches\\transforms-3\\d1e4a685b1001794fbcfe4ee9c157a7e\\transformed\\core-1.12.0\\res\\values-te\\values-te.xml",
