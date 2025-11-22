@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_form.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\login.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_signup_page.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_signup_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_signup_page.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_signup_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_loginadmin.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_loginadmin.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_complaintpage2.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_complaintpage2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_main3.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_loginpage.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_loginpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\userpage.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\userpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\newacc.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\newacc.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_adminpage.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_adminpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-mergeDebugResources-39:\\layout\\activity_complaintpage1.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\8.4\\com.example.reportezapp-main-42:\\layout\\activity_complaintpage1.xml"
+    }
+]

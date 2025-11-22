@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_loginadmin.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_loginadmin.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_complaintpage1.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_complaintpage1.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_main2.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/useritem.xml",
+        "source": "com.example.reportezapp-main-42:/layout/useritem.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_recycler.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_recycler.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_newacc.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_newacc.xml"
+    },
+    {
+        "merged": "com.example.reportezapp-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "com.example.reportezapp-main-42:/layout/activity_login.xml"
+    }
+]

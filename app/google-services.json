@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936745354625",
+    "project_id": "reportez-app-15032",
+    "storage_bucket": "reportez-app-15032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936745354625:android:d1736e5d90e59d89f05480",
+        "android_client_info": {
+          "package_name": "com.example.reportezapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7vau4sXw3c9mmqVP9dwVcW2iDjwR2oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
