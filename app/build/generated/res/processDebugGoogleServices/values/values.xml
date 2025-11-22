@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">936745354625</string>
-    <string name="google_api_key" translatable="false">AIzaSyDk7vau4sXw3c9mmqVP9dwVcW2iDjwR2oQ</string>
-    <string name="google_app_id" translatable="false">1:936745354625:android:d1736e5d90e59d89f05480</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDk7vau4sXw3c9mmqVP9dwVcW2iDjwR2oQ</string>
-    <string name="google_storage_bucket" translatable="false">reportez-app-15032.appspot.com</string>
-    <string name="project_id" translatable="false">reportez-app-15032</string>
-</resources>
