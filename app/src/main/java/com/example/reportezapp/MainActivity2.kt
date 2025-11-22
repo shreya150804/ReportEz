@@ -21,7 +21,5 @@ class MainActivity2 : AppCompatActivity() {
             val intent = Intent(this, loginadmin::class.java)
             startActivity(intent)
         }
-
-
     }
 }

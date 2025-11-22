@@ -1,35 +1,43 @@
-com.example.reportezapp-lifecycle-livedata-core-2.6.1-0 C:\Users\Shreya Wani\.gradle\caches\transforms-3\014755802b81b8013fcc7745508ee20d\transformed\lifecycle-livedata-core-2.6.1\res
-com.example.reportezapp-coordinatorlayout-1.1.0-1 C:\Users\Shreya Wani\.gradle\caches\transforms-3\2b0959dc2a15a43f6e92c044116da025\transformed\coordinatorlayout-1.1.0\res
-com.example.reportezapp-cardview-1.0.0-2 C:\Users\Shreya Wani\.gradle\caches\transforms-3\425c79b41c5100e4c9e6d62d316150ce\transformed\cardview-1.0.0\res
-com.example.reportezapp-transition-1.2.0-3 C:\Users\Shreya Wani\.gradle\caches\transforms-3\42a1e2014bbd5a500b14ad34f2db2171\transformed\transition-1.2.0\res
-com.example.reportezapp-viewpager2-1.0.0-4 C:\Users\Shreya Wani\.gradle\caches\transforms-3\43e07bfc22f434b6829fa482b36478eb\transformed\viewpager2-1.0.0\res
-com.example.reportezapp-annotation-experimental-1.3.0-5 C:\Users\Shreya Wani\.gradle\caches\transforms-3\53e201e1c519ef1807304d065a17ebc1\transformed\annotation-experimental-1.3.0\res
-com.example.reportezapp-drawerlayout-1.1.1-6 C:\Users\Shreya Wani\.gradle\caches\transforms-3\5546cce9dcb60f35250f341d0240034f\transformed\drawerlayout-1.1.1\res
-com.example.reportezapp-material-1.11.0-7 C:\Users\Shreya Wani\.gradle\caches\transforms-3\56af212e940d1f2bde023f0cf7bfa9c5\transformed\material-1.11.0\res
-com.example.reportezapp-recyclerview-1.1.0-8 C:\Users\Shreya Wani\.gradle\caches\transforms-3\5b5993d18bcbb605c3c00d6e0023f074\transformed\recyclerview-1.1.0\res
-com.example.reportezapp-appcompat-1.6.1-9 C:\Users\Shreya Wani\.gradle\caches\transforms-3\60b492a510ec931c8abbf232e0a5612c\transformed\appcompat-1.6.1\res
-com.example.reportezapp-lifecycle-livedata-2.6.1-10 C:\Users\Shreya Wani\.gradle\caches\transforms-3\7c393f308216475a1917e90f38a52fe3\transformed\lifecycle-livedata-2.6.1\res
-com.example.reportezapp-emoji2-1.2.0-11 C:\Users\Shreya Wani\.gradle\caches\transforms-3\9dba3473c2e7ab91e493b9371a42d8d3\transformed\emoji2-1.2.0\res
-com.example.reportezapp-constraintlayout-2.1.4-12 C:\Users\Shreya Wani\.gradle\caches\transforms-3\a1c5e08825da8b3508fd7a457a086ebc\transformed\constraintlayout-2.1.4\res
-com.example.reportezapp-lifecycle-viewmodel-savedstate-2.6.1-13 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ab411bdad354b8a7b4baccbbfcf50960\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
-com.example.reportezapp-core-splashscreen-1.0.1-14 C:\Users\Shreya Wani\.gradle\caches\transforms-3\bbe2e3d2d66d3bd6563914177d8c995f\transformed\core-splashscreen-1.0.1\res
-com.example.reportezapp-startup-runtime-1.1.1-15 C:\Users\Shreya Wani\.gradle\caches\transforms-3\bd50c3342304ece3fc0f4987dbf8e037\transformed\startup-runtime-1.1.1\res
-com.example.reportezapp-activity-1.8.0-16 C:\Users\Shreya Wani\.gradle\caches\transforms-3\c14829fa2f129e4c89cf5945064fe2f3\transformed\activity-1.8.0\res
-com.example.reportezapp-lifecycle-viewmodel-2.6.1-17 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ccd1d9bc127d7502d1387cbd47d443b0\transformed\lifecycle-viewmodel-2.6.1\res
-com.example.reportezapp-core-1.12.0-18 C:\Users\Shreya Wani\.gradle\caches\transforms-3\d1e4a685b1001794fbcfe4ee9c157a7e\transformed\core-1.12.0\res
-com.example.reportezapp-lifecycle-runtime-2.6.1-19 C:\Users\Shreya Wani\.gradle\caches\transforms-3\d6272232dc1f3c68246fb6724088a510\transformed\lifecycle-runtime-2.6.1\res
-com.example.reportezapp-savedstate-1.2.1-20 C:\Users\Shreya Wani\.gradle\caches\transforms-3\dd5bf7646a22a18020a2053e33d32a88\transformed\savedstate-1.2.1\res
-com.example.reportezapp-fragment-1.3.6-21 C:\Users\Shreya Wani\.gradle\caches\transforms-3\e2913d16079ecd795d35ebd21770d0ec\transformed\fragment-1.3.6\res
-com.example.reportezapp-emoji2-views-helper-1.2.0-22 C:\Users\Shreya Wani\.gradle\caches\transforms-3\e3779211110e7e7363a092096e8e5517\transformed\emoji2-views-helper-1.2.0\res
-com.example.reportezapp-core-runtime-2.2.0-23 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ee63aad40962667e9ebfadbe25b1116c\transformed\core-runtime-2.2.0\res
-com.example.reportezapp-profileinstaller-1.3.0-24 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ee77c6148e535550acd02ec4a55fcb7f\transformed\profileinstaller-1.3.0\res
-com.example.reportezapp-appcompat-resources-1.6.1-25 C:\Users\Shreya Wani\.gradle\caches\transforms-3\f880cc1c3e36c0c4b347845a9fccfd59\transformed\appcompat-resources-1.6.1\res
-com.example.reportezapp-lifecycle-process-2.6.1-26 C:\Users\Shreya Wani\.gradle\caches\transforms-3\f96262b739e7235dd07a97d871a1b1da\transformed\lifecycle-process-2.6.1\res
-com.example.reportezapp-core-ktx-1.12.0-27 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ff6587493ebdc791c50ad8995c78d2de\transformed\core-ktx-1.12.0\res
-com.example.reportezapp-pngs-28 E:\reportezapp-\app\build\generated\res\pngs\debug
-com.example.reportezapp-resValues-29 E:\reportezapp-\app\build\generated\res\resValues\debug
-com.example.reportezapp-packageDebugResources-30 E:\reportezapp-\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.reportezapp-packageDebugResources-31 E:\reportezapp-\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.reportezapp-merged_res-32 E:\reportezapp-\app\build\intermediates\merged_res\debug
-com.example.reportezapp-debug-33 E:\reportezapp-\app\src\debug\res
-com.example.reportezapp-main-34 E:\reportezapp-\app\src\main\res
+com.example.reportezapp-startup-runtime-1.1.1-0 C:\Users\Shreya Wani\.gradle\caches\transforms-3\021068f4910c4d197b4068c0cec0dd14\transformed\startup-runtime-1.1.1\res
+com.example.reportezapp-play-services-base-18.1.0-1 C:\Users\Shreya Wani\.gradle\caches\transforms-3\0e034375a611538ca61f20239ec22301\transformed\play-services-base-18.1.0\res
+com.example.reportezapp-annotation-experimental-1.3.0-2 C:\Users\Shreya Wani\.gradle\caches\transforms-3\11a30985dc0927272722fa9fdb647082\transformed\annotation-experimental-1.3.0\res
+com.example.reportezapp-play-services-measurement-api-21.6.2-3 C:\Users\Shreya Wani\.gradle\caches\transforms-3\150676f15e4bdd7066157e0da36a6539\transformed\play-services-measurement-api-21.6.2\res
+com.example.reportezapp-fragment-1.3.6-4 C:\Users\Shreya Wani\.gradle\caches\transforms-3\24c920d60dbf803742b40f0c105960ad\transformed\fragment-1.3.6\res
+com.example.reportezapp-lifecycle-livedata-core-2.6.1-5 C:\Users\Shreya Wani\.gradle\caches\transforms-3\28233a845312d9670e1126074dff0b60\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.reportezapp-lifecycle-livedata-2.6.1-6 C:\Users\Shreya Wani\.gradle\caches\transforms-3\327af7210342d2ae4abfea6d0d734eeb\transformed\lifecycle-livedata-2.6.1\res
+com.example.reportezapp-play-services-basement-18.3.0-7 C:\Users\Shreya Wani\.gradle\caches\transforms-3\3338884a95ac9ac4e0c0dd2b88fc94b6\transformed\play-services-basement-18.3.0\res
+com.example.reportezapp-core-ktx-1.12.0-8 C:\Users\Shreya Wani\.gradle\caches\transforms-3\37e00bdc8d131e60b7c08a3089886575\transformed\core-ktx-1.12.0\res
+com.example.reportezapp-browser-1.4.0-9 C:\Users\Shreya Wani\.gradle\caches\transforms-3\3ac4a8823a44a9276ad1d7b8d2ecadab\transformed\browser-1.4.0\res
+com.example.reportezapp-lifecycle-viewmodel-2.6.1-10 C:\Users\Shreya Wani\.gradle\caches\transforms-3\3f4dc569926df0b88e6d2f50b6a16970\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.reportezapp-recyclerview-1.1.0-11 C:\Users\Shreya Wani\.gradle\caches\transforms-3\41d9ed29d71dffa9a5a738777a841cc1\transformed\recyclerview-1.1.0\res
+com.example.reportezapp-appcompat-1.6.1-12 C:\Users\Shreya Wani\.gradle\caches\transforms-3\490a5b4e7428945a2f77bb54f252416f\transformed\appcompat-1.6.1\res
+com.example.reportezapp-lifecycle-viewmodel-savedstate-2.6.1-13 C:\Users\Shreya Wani\.gradle\caches\transforms-3\52b4d07eb78e11f04b241abf7d83a1e8\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.reportezapp-firebase-common-20.4.3-14 C:\Users\Shreya Wani\.gradle\caches\transforms-3\5524a80dcc382a2641ed24d17c48ce01\transformed\firebase-common-20.4.3\res
+com.example.reportezapp-material-1.11.0-15 C:\Users\Shreya Wani\.gradle\caches\transforms-3\65e85a95991b59a3336e77672b4b2542\transformed\material-1.11.0\res
+com.example.reportezapp-savedstate-1.2.1-16 C:\Users\Shreya Wani\.gradle\caches\transforms-3\6b7c20be6c6d71dafb21cf0690268f97\transformed\savedstate-1.2.1\res
+com.example.reportezapp-emoji2-1.2.0-17 C:\Users\Shreya Wani\.gradle\caches\transforms-3\867fc8e3b2df7542827c93f56fcf8226\transformed\emoji2-1.2.0\res
+com.example.reportezapp-activity-1.8.0-18 C:\Users\Shreya Wani\.gradle\caches\transforms-3\8e248bd8ef1a3c2fa755698710e995a0\transformed\activity-1.8.0\res
+com.example.reportezapp-coordinatorlayout-1.1.0-19 C:\Users\Shreya Wani\.gradle\caches\transforms-3\930caf1488a65afcbda4da135eb179bd\transformed\coordinatorlayout-1.1.0\res
+com.example.reportezapp-core-runtime-2.2.0-20 C:\Users\Shreya Wani\.gradle\caches\transforms-3\96bdbd5f38eebf97921cd3ce7c772f6f\transformed\core-runtime-2.2.0\res
+com.example.reportezapp-profileinstaller-1.3.0-21 C:\Users\Shreya Wani\.gradle\caches\transforms-3\96ddbcdad814d02e97153808b6036cbf\transformed\profileinstaller-1.3.0\res
+com.example.reportezapp-ads-adservices-1.0.0-beta05-22 C:\Users\Shreya Wani\.gradle\caches\transforms-3\998ba7194e77c21fd7fe93b21a1180a0\transformed\ads-adservices-1.0.0-beta05\res
+com.example.reportezapp-core-1.12.0-23 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ac096f90094cf9efe180c022c3399272\transformed\core-1.12.0\res
+com.example.reportezapp-core-splashscreen-1.0.1-24 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ba3e871a32ad25cacd9af76d983289ba\transformed\core-splashscreen-1.0.1\res
+com.example.reportezapp-ads-adservices-java-1.0.0-beta05-25 C:\Users\Shreya Wani\.gradle\caches\transforms-3\baf4f25d7450c14c7f47e4d8d9ce33e1\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.reportezapp-lifecycle-runtime-2.6.1-26 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ce0c04dbc829838712f8f6c0a66c65fb\transformed\lifecycle-runtime-2.6.1\res
+com.example.reportezapp-appcompat-resources-1.6.1-27 C:\Users\Shreya Wani\.gradle\caches\transforms-3\d0f1e8c84a929eba8806863c2a8c4499\transformed\appcompat-resources-1.6.1\res
+com.example.reportezapp-emoji2-views-helper-1.2.0-28 C:\Users\Shreya Wani\.gradle\caches\transforms-3\d8d6cf58ff903eb07eee7b7b6e589833\transformed\emoji2-views-helper-1.2.0\res
+com.example.reportezapp-drawerlayout-1.1.1-29 C:\Users\Shreya Wani\.gradle\caches\transforms-3\da2bb4ceae16306e2d36414c6f354753\transformed\drawerlayout-1.1.1\res
+com.example.reportezapp-lifecycle-process-2.6.1-30 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ddb04df2b7426e56d298131583309d15\transformed\lifecycle-process-2.6.1\res
+com.example.reportezapp-transition-1.2.0-31 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ddf3006b5830e1ce6aa49c0e43afa9e7\transformed\transition-1.2.0\res
+com.example.reportezapp-constraintlayout-2.1.4-32 C:\Users\Shreya Wani\.gradle\caches\transforms-3\f9d90bfd34dd1d669bbbfe507e5383e4\transformed\constraintlayout-2.1.4\res
+com.example.reportezapp-viewpager2-1.0.0-33 C:\Users\Shreya Wani\.gradle\caches\transforms-3\f9dc3cb224818108157d7877dc674db7\transformed\viewpager2-1.0.0\res
+com.example.reportezapp-cardview-1.0.0-34 C:\Users\Shreya Wani\.gradle\caches\transforms-3\ff1c42eb8d6447253d48d6ec09a6bfe5\transformed\cardview-1.0.0\res
+com.example.reportezapp-pngs-35 E:\app\firestore\ReportEZ\ReportEZ\app\build\generated\res\pngs\debug
+com.example.reportezapp-res-36 E:\app\firestore\ReportEZ\ReportEZ\app\build\generated\res\processDebugGoogleServices
+com.example.reportezapp-resValues-37 E:\app\firestore\ReportEZ\ReportEZ\app\build\generated\res\resValues\debug
+com.example.reportezapp-packageDebugResources-38 E:\app\firestore\ReportEZ\ReportEZ\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.reportezapp-packageDebugResources-39 E:\app\firestore\ReportEZ\ReportEZ\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.reportezapp-merged_res-40 E:\app\firestore\ReportEZ\ReportEZ\app\build\intermediates\merged_res\debug
+com.example.reportezapp-debug-41 E:\app\firestore\ReportEZ\ReportEZ\app\src\debug\res
+com.example.reportezapp-main-42 E:\app\firestore\ReportEZ\ReportEZ\app\src\main\res
