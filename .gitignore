@@ -1,0 +1,11 @@
+# Ignore Firebase config
+google-services.json
+app/google-services.json
+
+# Ignore all build output
+/build/
+app/build/
+**/build/
+
+# Ignore local config
+local.properties

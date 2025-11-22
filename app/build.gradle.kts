@@ -18,6 +18,10 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        manifestPlaceholders["GOOGLE_API_KEY"] =
+            project.properties["GOOGLE_API_KEY"]?.toString() ?: ""
+
+
     }
 
     buildTypes {
