@@ -69,20 +69,22 @@ class complaintpage1 : AppCompatActivity() {
             val crimeTime = crimeTimeField.text.toString()
 
             val userMap = hashMapOf(
-                "name" to name,
-                "father's name" to fathersName,
-                "nationality" to nationality,
-                "nearest police station" to policeStation,
-                "address" to address,
-                "mobile" to mobile,
-                "email" to email,
-                "suspect details" to suspectDetails,
-                "crime type" to crimeType,
-                "crime description" to crimeDescription,
-                "crime place" to crimePlace,
-                "crime date" to crimeDate,
-                "crime time" to crimeTime
+                "name" to name.trim(),
+            "fatherName" to fathersName.trim(),
+            "nationality" to nationality.trim(),
+            "policeStation" to policeStation.trim(),
+            "address" to address.trim(),
+            "mobile" to mobile.trim(),
+            "email" to email.trim(),
+            "suspectDetails" to suspectDetails.trim(),
+            "crimeType" to crimeType.trim(),
+            "crimeDescription" to crimeDescription.trim(),
+            "crimePlace" to crimePlace.trim(),
+            "crimeDate" to crimeDate.trim(),
+            "crimeTime" to crimeTime.trim()
             )
+
+
 
             val currentUser = mAuth.currentUser
 

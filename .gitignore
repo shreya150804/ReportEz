@@ -9,3 +9,5 @@ app/build/
 
 # Ignore local config
 local.properties
+*.keystore
+*.jks
